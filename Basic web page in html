@@ -1,10 +1,124 @@
-- 👋 Hi, I’m @haputhanthiri
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<!DOCTYPE html>
+  <html>
+        <head>
 
-<!---
-haputhanthiri/haputhanthiri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+            <title>"VIST AND BUY HERE"</title>
+
+        </head>
+   
+  <body>
+
+   
+
+  <div style="padding: 4px;
+              width: 100% ;
+              
+              background-color: rgb(191, 115, 212); 
+              margin: 0;  
+              justify-content: center;" >
+              
+  
+       
+                 <h2 style=" text-align: center;
+                  font-family: Arial, Helvetica, sans-serif;
+                  font-size: 40px;
+
+                  ">BUY HERE </h2>
+         </div>
+       
+       <div style="display: flex;
+                   justify-content: center;
+                   font-family: calibri;
+                   font-size: 20px;       
+       ">
+
+       <div style="text-align: center;">
+                  <img src="https://www.electrorates.com/blogimg/Samsung_Galaxy_A52s_5G.png">
+                  <h3>SAMSUNG A52S 5G</h3>
+                  <h4>$499</h4>
+                  <button type="button"> Add to cart </button>
+    
+    
+    </div>
+    <div style="text-align: center;">
+        <img src="https://www.91-img.com/pictures/148162-v4-apple-iphone-15-pro-max-mobile-phone-large-13.jpg?tr=h-271,c-at_max,q-80,pr-true">
+        <h3>APPLE 15 PRO MAX</h3>
+        <h4>$1119</h4>
+        <button type="button"> Add to cart </button>
+
+
+</div>
+                  
+    <div style="text-align: center;">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYoeRudywzHRDDB0kXhBXTQh2XhnThqN6OUw&usqp=CAU" >
+        <h3>GOOGLE PIXEL 8 PRO</h3>
+        <h4>$599</h4>
+        <button type="button"> Add to cart</button>
+
+
+</div>
+
+    <div style="text-align: center;">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIle2rWkX0TzrCymKSTaCqLfdlXzD6_Eajvg&usqp=CAU" >
+    <h3>S23 altra</h3>
+    <h4>$999</h4>
+    <button type="button"> Add to cart</button>
+
+
+    <div style="padding: 1px;
+    width: 100% ;
+    background-color: rgb(86, 152, 111); 
+    margin: 0;  
+    justify-content: center;" >
+
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-ZU3qySQ7605dPSqj4DVyBzFTv0C0LEQKNw&usqp=CAU" >
+
+    
+
+
+       <h2 style=" text-align:center;
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 40px;
+
+        ">thank you </h2>
+
+
+<div style="display: flex;
+         justify-content: center;
+         font-family: calibri;
+         font-size: 20px;       
+">
+
+
+
+    
+    
+    
+    
+    
+    <div class="cart">
+        <h2>Your Cart</h2>
+        <div class="cart-items">
+        
+        </div>
+        <div class="cart-total">
+            <p>Total: $0.00</p>
+        </div>
+        <button class="btn" id="checkout">Checkout</button>
+    </div>
+</div>
+
+        
+    
+
+
+   
+        
+           
+           </div>
+         </div>
+    
+
+   
+</body>
+</html>
